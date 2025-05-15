@@ -1,0 +1,18 @@
+
+{
+  "name": "Solion Token",
+  "logoURI": "https://raw.githubusercontent.com/omidderogar10/SOLANA-token-list/main/assets/mainnet/AGh4RFvb34nuJJuPUCLWYiWiQr74msB4CMXhUhqcQ17R/logo.png",
+  "tags": {},
+  "timestamp": "2025-05-15T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "AGh4RFvb34nuJJuPUCLWYiWiQr74msB4CMXhUhqcQ17R",
+      "symbol": "SLN",
+      "name": "Solion",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/omidderogar10/SOLANA-token-list/main/assets/mainnet/AGh4RFvb34nuJJuPUCLWYiWiQr74msB4CMXhUhqcQ17R/logo.png",
+      "tags": ["community"]
+    }
+  ]
+}
